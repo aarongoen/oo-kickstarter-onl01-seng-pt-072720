@@ -9,8 +9,7 @@ def initialize(name)
 end
 
 def back_project 
-  pro
-  
+  @backed_projects << project 
 end 
 
 
